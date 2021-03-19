@@ -1,0 +1,9 @@
+
+
+Dashboard Design:
+take the dataset of diseases 
+age of patient, region(state,district),
+ 
+(1)prepare a dashboard, which will help its user to crawl and scrap required data from various websites of interest.
+(2) To provide dynamic web application to visualise information in an interactive dashboard. 
+(3)To facilitate data visualization and discover knowledge out of extracted and transformed data.
